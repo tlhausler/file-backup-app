@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\BackerUpper\\BackerUpper.csproj",
+      "projectUniqueName": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\file-backup-app\\BackerUpper\\BackerUpper.csproj",
       "projectName": "BackerUpper",
-      "projectPath": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\BackerUpper\\BackerUpper.csproj",
+      "projectPath": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\file-backup-app\\BackerUpper\\BackerUpper.csproj",
       "packagesPath": "C:\\Users\\tambe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\BackerUpper\\obj\\",
+      "outputPath": "C:\\Users\\tambe\\Desktop\\School\\semester4\\portfolio\\file-backup-app\\BackerUpper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
